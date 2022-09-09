@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj={syleekr})](https://solved.ac/{syleekr})
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=syleekr" align = "center">
 
 - I’m currently working on Algorithms, Math, and DeepLearning
