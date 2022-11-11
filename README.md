@@ -14,7 +14,7 @@
   <br>
 </p>
 
-- 🌱 My partially-Korean blog: https://velog.io/@syleekr
+
 - 📫 How to reach me: sylee2685@gmail.com
 <!--
 
