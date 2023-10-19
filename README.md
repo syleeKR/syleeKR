@@ -9,7 +9,7 @@
 <p align="center">
   <em>
     Hello, I am Seoyong Lee a <b>junior</b> undergraduate from <b>Seoul National University, department of Electrical and Computer Engineering</b>.  <br>
-    I'm studying about <b>Algorithms</b> and <b>Deep Learning</b>
+    I'm studying about <b>Quantum mechanics</b> and <b>Mathematical algorithms</b>
   </em> 
   <br>
 </p>
